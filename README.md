@@ -17,3 +17,14 @@ Dự án thực hành quản lý phiên bản mã nguồn bằng Git và GitHub,
 - Git
 - GitHub
 - Visual Studio Code
+
+## Thực hành Git trên Visual Studio Code
+
+Các thao tác thực hành:
+- Tạo Branch bằng giao diện VS Code
+- Chỉnh sửa và Stage file
+- Tạo Commit
+- Push lên GitHub
+- Tạo Pull Request
+- Merge thay đổi vào main
+
