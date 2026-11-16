@@ -2,7 +2,8 @@
 # GitHub Lab 6
 
 ## Giới thiệu
-Dự án quản lý phiên bản mã nguồn trên nhánh main.
+Dự án thực hành quản lý phiên bản mã nguồn bằng Git và GitHub, kết hợp thay đổi từ nhánh main và feature.
+
 
 ## Nội dung thực hành
 - Khởi tạo Git Repository
